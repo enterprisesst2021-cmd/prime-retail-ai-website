@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://primeretail.ai/sitemap.xml
+Sitemap: https://www.primeretail.app/sitemap.xml
